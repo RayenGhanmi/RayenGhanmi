@@ -10,9 +10,7 @@ I'm a self-taught developer
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [My Website](http://rayen.vercel.app)
 * ✉️  You can contact me at [ghanmirayen12@gmail.com](mailto:ghanmirayen12@gmail.com)
-* 🚀  I'm currently working on [RyTuneX](http://github.com/rayenghanmi/RyTuneX)
-* 🧠  I'm learning WinUi 3
-* 🤝  I'm open to collaborating on Windows optimizers
+* 🚀  I'm currently working on [a Discord bot](http://github.com/rayenghanmi/discord-bot)
 * ⚡  In reality I'm a biology student
 * 🖤  I'm looking forward to studying in a good University
 
