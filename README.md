@@ -1,7 +1,7 @@
 Hi👋 My name is Rayen Ghanmi
 ====================================================================================================================================
 
-Known as 'Null'
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 ---------
 
 I'm a self-taught developer
