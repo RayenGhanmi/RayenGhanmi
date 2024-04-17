@@ -1,50 +1,57 @@
-Hi👋 My name is Rayen Ghanmi
-====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Rayen</h1>
 
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
----------
-
-I'm a self-taught developer
-<img align="right" alt="Logo" width="400" src="https://github.com/rayenghanmi/rayenghanmi/assets/108760398/706e03b4-fd2f-40f5-80c8-0ee5a546c6de.gif"/>
-
-* 🌍  I'm based in Tunisia
-* 🖥️  See my portfolio at [My Website](https://rayenghanmi.github.io)
-* ✉️  You can contact me at [ghanmirayen12@gmail.com](mailto:ghanmirayen12@gmail.com)
-* 🚀  I'm currently working on [RyTuneX](http://github.com/rayenghanmi/RyTuneX)
-* ⚡  In reality I'm a biology student
-* 🖤  I'm looking forward to studying in a good University
-
-<a href="https://www.github.com/rayenghanmi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rayenghanmi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/rayen_ghanmi_23" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/rayen_ghanmi_23?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p align="center">
+  <a href="https://techforpalestine.org/learn-more">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Ceasefire Now">
+  </a>
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayenghanmi&theme=tokyonight" alt="rayenghanmi" /></a> </p>
 
-### Socials
+- 🔭 I’m currently working on [RyTuneX](https://rayenghanmi.github.io/rytunex)
+- 🤝 I’m looking for help with [RyTuneX](https://github.com/rayenghanmi/rytunex)
+- 🌱 I’m currently learning **WinUI3**
+- 💬 Ask me about **Python**
+- 📫 How to reach me [ghanmirayen12@gmail.com](mailto:ghanmirayen12@gmail.com)
+- 👨‍💻 All of my projects are available at [rayenghanmi.github.io](https://rayenghanmi.github.io)
+- 📝 I regularly write articles on [rayenblog.github.io](https://rayenblog.github.io)
+- ⚡ Fun fact **I'm a biology student**
 
-<p align="left"> <a href="https://discord.gg/gyBzyd364t" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/rayen.ghanmi.23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/rayenghanmi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.instagram.com/rayen.ghanmi.23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/rayen_ghanmi_23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@rayen.ghanmi.23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@rayen.ghanmi.23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+<div> <a href="https://twitter.com/rayen_ghanmi_23" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://github.com/rayenghanmi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/rayen.ghanmi.23" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:ghanmirayen12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rayen_ghanmi_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="rayen_ghanmi_23" height="30" width="40" /></a><a href="https://fb.com/rayen.ghanmi.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="rayen.ghanmi.23" height="30" width="40" /></a><a href="https://www.youtube.com/c/rayen.ghanmi.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="rayen.ghanmi.23" height="30" width="40" /></a><a href="https://instagram.com/rayen.ghanmi.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="rayen.ghanmi.23" height="30" width="40" /></a></p>
 
-### Badges
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-<b>My GitHub Stats</b>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayenghanmi&langs_count=8&theme=tokyonight" alt=rayenghanmi />
 
-<a href="http://www.github.com/rayenghanmi"><img src="https://github-readme-stats.vercel.app/api?username=rayenghanmi&show_icons=true&theme=material-palenight" alt="rayenghanmi's GitHub stats" /></a>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rayenghanmi&show_icons=true&locale=en&theme=tokyonight" alt="rayenghanmi" /></p>
 
-<a href="http://www.github.com/rayenghanmi/rytunex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rayenghanmi&show_owner=true&repo=rytunex&theme=material-palenight" alt="rayenghanmi's GitHub stats" /></a>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rayenghanmi&theme=tokyonight" alt="rayenghanmi" /></p>
 
-<a href="https://github.com/rayenghanmi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayenghanmi&langs_count=10&locale=en&custom_title=Top%20%Languages&theme=material-palenight" alt="Top Languages" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/rayen.ghanmi.22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/rayenghanmi"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayenghanmi&theme=tokyonight" height="180em" /></a>
+<a href="https://github.com/rayenghanmi"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rayenghanmi&theme=tokyonight" height="180em" /></a>
+<a href="https://github.com/rayenghanmi"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayenghanmi&theme=tokyonight" height="180em" /></a>
+<a href="https://github.com/rayenghanmi"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rayenghanmi&theme=2077" height="180em" /></a>
+<a href="https://github.com/rayenghanmi"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayenghanmi&theme=2077" height="180em" /></a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rayenghanmi&theme=tokyo-night"/>
