@@ -15,7 +15,7 @@
 - 📫 How to reach me [ghanmirayen12@gmail.com](mailto:ghanmirayen12@gmail.com)
 - 👨‍💻 All of my projects are available at [rayenghanmi.github.io](https://rayenghanmi.github.io)
 - 📝 I regularly write articles on [rayenblog.github.io](https://rayenblog.github.io)
-- ⚡ Fun fact **I'm a biology student**
+- ⚡ I'm an Informatics Science student
 
 <div> <a href="https://twitter.com/rayen_ghanmi_23" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/rayenghanmi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
